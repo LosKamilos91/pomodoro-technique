@@ -20,7 +20,7 @@
 
 **Po cyklach**:
 
-1. Po dłuższej przerwie wyczyść listę zadań z cyklu;\
+1. Po dłuższej przerwie wyczyść listę zadań z cyklu;
 2. Dodaj nowe zadania do interwału i rozpocznij ponownie proces wykonywania zadań;
 
 ### Dodatkowe wskazówki
